@@ -20,6 +20,7 @@ Task 1
                 Category 2-1
                 Category 2-2
 
+NOte: Please run composer install and npm install commands before run the project.
 
 http://127.0.0.1:8000/admin-dashboard/category/add
 admin credentials
